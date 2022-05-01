@@ -1,0 +1,13 @@
+/home/deepak/utd/2sem/cv/projects/3 Project/Yolo-Annotation-Tool-New-/Images/001/init_90.jpg
+/home/deepak/utd/2sem/cv/projects/3 Project/Yolo-Annotation-Tool-New-/Images/001/init_7.jpg
+/home/deepak/utd/2sem/cv/projects/3 Project/Yolo-Annotation-Tool-New-/Images/001/init_94.jpg
+/home/deepak/utd/2sem/cv/projects/3 Project/Yolo-Annotation-Tool-New-/Images/001/init_54.jpg
+/home/deepak/utd/2sem/cv/projects/3 Project/Yolo-Annotation-Tool-New-/Images/001/init_113.jpg
+/home/deepak/utd/2sem/cv/projects/3 Project/Yolo-Annotation-Tool-New-/Images/001/init_78.jpg
+/home/deepak/utd/2sem/cv/projects/3 Project/Yolo-Annotation-Tool-New-/Images/001/init_38.jpg
+/home/deepak/utd/2sem/cv/projects/3 Project/Yolo-Annotation-Tool-New-/Images/001/init_6.jpg
+/home/deepak/utd/2sem/cv/projects/3 Project/Yolo-Annotation-Tool-New-/Images/001/init_62.jpg
+/home/deepak/utd/2sem/cv/projects/3 Project/Yolo-Annotation-Tool-New-/Images/001/init_47.jpg
+/home/deepak/utd/2sem/cv/projects/3 Project/Yolo-Annotation-Tool-New-/Images/001/init_92.jpg
+/home/deepak/utd/2sem/cv/projects/3 Project/Yolo-Annotation-Tool-New-/Images/001/init_10.jpg
+/home/deepak/utd/2sem/cv/projects/3 Project/Yolo-Annotation-Tool-New-/Images/001/init_2.jpg
